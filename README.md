@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am **Yaroslav Gamayunov**, student of Moscow Institute of Physics and Technology
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count = 10&username=YaroslavGamayunov&layout=compact&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count = 10&username=YaroslavGamayunov&layout=compact&hide=javascript,html)](https://github.com/YaroslavGamayunov/YaroslavGamayunov)
 
 ### ✨ My interests 
 I am passionate about software development. I love boxing and street workout as well 🥊💪
